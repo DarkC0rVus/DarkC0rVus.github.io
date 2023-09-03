@@ -9,7 +9,7 @@ order: 4
 
 ## About Me
 
-Sr Cyber Security Engineer | eCPPTv2 | Vulnerability Management | Bridging the Gap as a Purple Team Player
+I am a Senior Cybersecurity Engineer with Focus on Vulnerability Management, VAPT (Vulnerability Assessment and Penetration Testing), and I specialize in bridging the gap as a Purple Team Player.
 
 ---
 
